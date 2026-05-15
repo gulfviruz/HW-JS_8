@@ -1,15 +1,15 @@
 //1
-//Меня зовут Гульфайруз Конлашарова, и мне 26 лет
-let firstName = "Гульфайруз";
-let lastName = "Конлашарова";
+//Меня зовут Jane Doe, и мне 26 лет
+let firstName = "Jane";
+let lastName = "Doe";
 let age = 26;
 
 let message = `Меня зовут ${firstName} ${lastName}, и мне ${age} лет`;
 console.log(message);
 
 //2
-// Я родом из города Астана
-let city = " Астана ";
+// Я родом из города Seoul
+let city = " Seoul ";
 console.log(" Я родом из города " + city);
 
 //3
